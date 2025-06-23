@@ -24,6 +24,7 @@ This is a PHP-based web application that allows users to subscribe to receive a 
 ---
 
 ## 📁 Project Structure
+
 src/
 ├── index.php               # Handles email input and verification
 ├── unsubscribe.php         # Handles unsubscription requests
