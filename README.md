@@ -64,7 +64,6 @@ Subject: Your Verification Code
 ✅ XKCD Comic Email
 Subject: Your XKCD Comic
     <h2>XKCD Comic</h2>
-    <img src="image_url_here" alt="XKCD Comic">
     <p><a href="#" id="unsubscribe-button">Unsubscribe</a></p>
 
 ✅ Unsubscribe Confirmation Email
