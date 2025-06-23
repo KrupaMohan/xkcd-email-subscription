@@ -61,14 +61,6 @@ src/
 Subject: Your Verification Code
     <p>Your verification code is: <strong>123456</strong></p>
 
-✅ XKCD Comic Email
-Subject: Your XKCD Comic
-    <h2>XKCD Comic</h2>
-    <p><a href="#" id="unsubscribe-button">Unsubscribe</a></p>
-
 ✅ Unsubscribe Confirmation Email
 Subject: Confirm Un-subscription
     <p>To confirm un-subscription, use this code: <strong>654321</strong></p>
-
-Developed By
-Krupa Mohan
