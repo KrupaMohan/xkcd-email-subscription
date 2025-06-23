@@ -23,17 +23,6 @@ This is a PHP-based web application that allows users to subscribe to receive a 
 
 ---
 
-## 📁 Project Structure
-
-src/
-├── index.php               # Handles email input and verification
-├── unsubscribe.php         # Handles unsubscription requests
-├── functions.php           # Core logic (emailing, verification, XKCD fetch, etc.)
-├── cron.php                # Executes XKCD email sending
-├── setup_cron.sh           # Shell script to register the CRON job
-└── registered_emails.txt   # Text-based storage for verified emails
----
-
 ## 🛠 Technologies Used
 
 - PHP (v8.3)
